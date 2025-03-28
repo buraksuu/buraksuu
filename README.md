@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🚀 Hey, I'm Burak!
 
-<!--
-**buraksuu/buraksuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Cyber Security Researcher | Pentester | CTF Player**  
+🔍 Passionate about **Low Level Security Researcher, Web & System Security**  
+📌 Constantly breaking and securing things in the digital world  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Interests
+- 🔥 **Penetration Tester** - Web, Wi-Fi, Internal, DDoS & Low Level
+- 🎯 **CTF Player** - Solving challenges & writing write-ups  
+
+---
+
+## 📌 Latest Blog Posts
+- 📝 [Medium Write-Ups](https://uburak.medium.com/)  
+- 💡 Sharing knowledge on security research & exploit development  
+
+---
+
+## 📫 Connect with Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/b4rak/)  
+- 🐦 [Twitter](https://x.com/0xd3vnull) 
+
+---
+
+_"Security isn’t just a job; it’s a mindset."_ 🛡️💻
