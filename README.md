@@ -7,8 +7,10 @@
 ---
 
 ## 🛠️ Skills & Interests
-- 🔥 **Penetration Tester** - Web, Wi-Fi, Internal, DDoS & Low Level
-- 🎯 **CTF Player** - Solving challenges & writing write-ups  
+- Web Application Penetration Testing
+- Wi-Fi Penetration Testing
+- DDoS Testing
+- Internal Penetration Testing
 
 ---
 
@@ -16,12 +18,3 @@
 - 📝 [Medium Write-Ups](https://uburak.medium.com/)  
 - 💡 Sharing knowledge on security research & exploit development  
 
----
-
-## 📫 Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/b4rak/)  
-- 🐦 [Twitter](https://x.com/0xd3vnull) 
-
----
-
-_"Security isn’t just a job; it’s a mindset."_ 🛡️💻
