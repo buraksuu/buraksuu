@@ -9,10 +9,11 @@
 ---
 
 ## 🛠️ Skills & Interests
-- Web Application Penetration Testing
-- Wi-Fi Penetration Testing
-- DDoS Testing
+- Web/API Penetration Testing
+- Mobile Penetration Testing
+- Wireless Penetration Testing
 - Internal Penetration Testing
+
 
 ---
 
