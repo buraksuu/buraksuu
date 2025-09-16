@@ -1,10 +1,8 @@
 # 🚀 Hey, I'm Burak!
 
-- As a Penetration Tester Assistant, I actively work in the field of cybersecurity, specializing in network security, web application security, and penetration testing. I am committed to continuous learning and staying ahead of emerging threats through in-depth analysis and research.
+- I’m a Penetration Tester and Low-Level Security Researcher with hands-on experience across Web, Mobile, API, Internal, and Wireless environments. I’ve published a CVE as part of my security research, contributing to the global infosec community. My work centers on practical exploitation, vulnerability discovery, and staying ahead of emerging threats through continuous learning and research.
 
-🎯 **Cyber Security Researcher | Pentester | CTF Player**  
-🔍 Passionate about **Low Level Security Researcher, Web & System Security**  
-📌 Constantly breaking and securing things in the digital world  
+🎯 **Penetration Tester & Low Level Security Researcher**  
 
 ---
 
@@ -19,5 +17,5 @@
 
 ## 📌 Latest Blog Posts
 - 📝 [Medium Write-Ups](https://uburak.medium.com/)  
-- 💡 Sharing knowledge on security research & exploit development  
+- 💡 [Website](https://aksuburak.com/blogs.html)
 
