@@ -1,8 +1,7 @@
 # 🚀 Hey, I'm Burak!
 
-- I’m a Penetration Tester and Low-Level Security Researcher with hands-on experience across Web, Mobile, API, Internal, and Wireless environments. I’ve published a CVE as part of my security research, contributing to the global infosec community. My work centers on practical exploitation, vulnerability discovery, and staying ahead of emerging threats through continuous learning and research.
+I am a Penetration Tester working on Web, Mobile, API, Internal, External, and Wireless security testing, focusing on identifying real-world security risks across diverse environments. I perform vulnerability assessments aligned with BDDK, SPK, and PCI-DSS, and deliver clear, evidence-based reports with actionable remediation guidance. Alongside my professional work, I solve CTF challenges involving vulnerabilities such as Use-After-Free, Double Free, OOB R/W, Heap Overflows, Race Conditions, and Integer Overflows, analyzing binaries with tools like IDA, Ghidra, and GDB. I also explore AI-assisted offensive tooling, integrating MCP-based workflows to automate reconnaissance, accelerate analysis, and enhance red-team efficiency.
 
-🎯 **Penetration Tester & Low Level Security Researcher**  
 
 ---
 
@@ -10,8 +9,7 @@
 - Web/API Penetration Testing
 - Mobile Penetration Testing
 - Wireless Penetration Testing
-- Internal Penetration Testing
-
+- Internal/External Penetration Testing
 
 ---
 
@@ -19,3 +17,16 @@
 - 📝 [Medium Write-Ups](https://uburak.medium.com/)  
 - 💡 [Website](https://aksuburak.com/blogs.html)
 
+---
+
+## 🔒 CVEs
+
+- [CVE-2025-4040](https://www.cve.org/CVERecord?id=CVE-2025-4040)
+
+---
+
+## ✅ Certifications
+- Certified AppSec Pentesting eXpert (CAPenX)
+- Certified Binary Fuzzing & Reversing Professional (CBFRPro)
+- Certified Network Security Practitioner (CNSP)
+- Certified Web Red Team Analyst (Web-RTA)
